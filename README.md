@@ -1,3 +1,5 @@
 # Stroke Prediction and EDA
-- EDA using Plotly on raw dataset to obtain useful insights. 
-- Comparing accuracies of 3 different supervised machine learning models: Logistic Regression, Support Vector Machine and Random Forest Classifier on a healthcare dataset containing information related to stroke events and soon will be hosted on Streamlit.
+## With this project, I aim to explore data preprocessing, analysing and deploying basic machine learning models.
+
+- EDA using Plotly on a raw healthcare dataset (containing info about stroke events) to obtain useful insights. 
+- Comparing accuracies of 3 different supervised machine learning models: Logistic Regression, Support Vector Machine and Random Forest Classifier on the dataset and soon to be  hosted on Streamlit.
